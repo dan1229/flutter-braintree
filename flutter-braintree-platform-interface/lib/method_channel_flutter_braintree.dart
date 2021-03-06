@@ -7,12 +7,12 @@ class MethodChannelFlutterBraintree extends FlutterBraintreePlatform {
 
   @override
   Future<void> init() {
-    return;
+    print("initializing...");
   }
 
   @override
   Future<void> dispose() {
-    return;
+    print("disposing...");
   }
 
 }
