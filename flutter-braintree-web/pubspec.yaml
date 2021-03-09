@@ -14,7 +14,7 @@ dependencies:
     sdk: flutter
   meta: ">= 1.0.0 <2.0.0"
   flutter_braintree_platform_interface:
-    path: /Users/daniel/OneDrive/projects/flutter-braintree/flutter-braintree-platform-interface
+    path: ../flutter-braintree-platform-interface
 
 flutter:
   plugin:

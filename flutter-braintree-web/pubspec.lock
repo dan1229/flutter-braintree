@@ -23,8 +23,8 @@ packages:
   flutter_braintree_platform_interface:
     dependency: "direct main"
     description:
-      path: "/Users/daniel/OneDrive/projects/flutter-braintree/flutter-braintree-platform-interface"
-      relative: false
+      path: "../flutter-braintree-platform-interface"
+      relative: true
     source: path
     version: "1.0.0"
   flutter_web_plugins:
